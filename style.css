@@ -1,0 +1,61 @@
+.ui.centered.image {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 50px;
+}
+
+.logo {
+  height: 140px;
+  width: 150px;
+}
+
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.footer-background {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 50px;
+  padding-bottom: 80px;
+
+}
+
+.ui.teal.label {
+  margin-top: 10px;
+}
+
+.promo1 {
+  height: 200px;
+  width: 200px;
+}
+
+.promo2 {
+  height: 148px;
+  width: 200px;
+}
+
+.promo3 {
+  height: 172.75px;
+  width: 200px;
+}
+
+.featured {
+  font-size: 30px;
+}
+
+.selection {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 50px;
+}
+
+.ui.item.name {
+  font-weight: bold;
+}
